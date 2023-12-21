@@ -5,19 +5,19 @@ Individual Capstone Project Challenge:
 - Build an e-commerce F&B store w/ Django, HTML, CSS, JavaScript and Bootstrap
 
 Features:
-- Payment Integration with PayPal / Debit & Credit Card
 - Real-World application development
 - Shopping cart development
 - User management
-- Email verification
-- * AWS Integration
-- * Deployment (live server hosting)
+- Password management
 - Shipping and order functionality
 - Styling and validation
-- Password management
 - Cart functionality
+- Email verification
+- Payment Integration with PayPal / Debit & Credit Card
 - Context processors
 - Model management
+- AWS Integration (NOT DONE)
+- Deployment (live server hosting) (NOT DONE)
 
 # Important Note
 
