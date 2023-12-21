@@ -3,7 +3,7 @@
 Work in Progress - By end Dec 2023
 
 Individual Capstone Project Challenge:
-- Build an e-commerce F&B store w/ Django, HTML, CSS, JavaScript and Bootstrap
+Build an e-commerce F&B store w/ Django, HTML, CSS, JavaScript and Bootstrap
 
 
 - Features:
