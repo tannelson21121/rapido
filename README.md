@@ -3,11 +3,11 @@
 Work in Progress - By end Dec 2023
 
 Individual Capstone Project Challenge:
+Build an e-commerce F&B store w/ Django, HTML, CSS, JavaScript and Bootstrap
 
-Build an e-commerce F&B store w/ Django, HTML, CSS, JavaScript & Bootstrap.
-Features:
+- Features:
 
-Payment Integration with PayPal / Debit & Credit Card
+- Payment Integration with PayPal / Debit & Credit Card
 - Real-World application development
 - Shopping cart development
 - User management
