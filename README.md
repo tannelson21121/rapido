@@ -1,6 +1,5 @@
 # Rapido - E-Commerce F&B Store
 
-Work in Progress - By end Dec 2023
 
 Individual Capstone Project Challenge:
 - Build an e-commerce F&B store w/ Django, HTML, CSS, JavaScript and Bootstrap
@@ -11,8 +10,8 @@ Features:
 - Shopping cart development
 - User management
 - Email verification
-- AWS Integration
-- Deployment (live server hosting)
+- * AWS Integration
+- * Deployment (live server hosting)
 - Shipping and order functionality
 - Styling and validation
 - Password management
