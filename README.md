@@ -1,4 +1,4 @@
-# rapido
+# Rapido - E-Commerce F&B Store
 
 Work in Progress - By end Dec 2023
 
@@ -20,7 +20,7 @@ Features:
 - Context processors
 - Model management
 
-#Important Note
+# Important Note
 
 Ensure that you also install all of the packages from the requirements.txt file (included in the project source code) as follows:
 
