@@ -19,3 +19,11 @@ Features:
 - Cart functionality
 - Context processors
 - Model management
+
+#Important Note
+
+Ensure that you also install all of the packages from the requirements.txt file (included in the project source code) as follows:
+
+- pip install -r requirements.txt
+
+Please ensure that you create and use your own virtual environment to install the packages from the requirements.txt file.
