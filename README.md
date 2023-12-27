@@ -47,15 +47,18 @@ Please ensure that you create and use your own virtual environment to install th
 
 - Complete Order Details
 
-![Screenshot checkout](https://github.com/tannelson21121/rapido/assets/127757372/e4ac25ab-16b6-4fc3-965d-8df313f6a9b1)
+![Screenshot checkout](https://github.com/tannelson21121/rapido/assets/127757372/7b508504-60db-4552-87cb-4160b12acb2b)
+
 
 - Paypal Checkout
 
-![Screenshot paypal checkout](https://github.com/tannelson21121/rapido/assets/127757372/18554b63-37c9-4782-ab67-ec94b826e6b7)
+![Screenshot paypal checkout](https://github.com/tannelson21121/rapido/assets/127757372/28fedafc-156a-4c17-8412-b3a1f87672b8)
+
 
 - Payment Success
 
-![Screenshot payment success](https://github.com/tannelson21121/rapido/assets/127757372/0a224473-130f-4bf2-a9a5-7db22f948db6)
+![Screenshot payment success](https://github.com/tannelson21121/rapido/assets/127757372/5a676196-1fd8-4461-8310-63ee21a09505)
+
 
 
 
