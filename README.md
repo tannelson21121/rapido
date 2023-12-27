@@ -26,3 +26,20 @@ Ensure that you also install all of the packages from the requirements.txt file 
 - pip install -r requirements.txt
 
 Please ensure that you create and use your own virtual environment to install the packages from the requirements.txt file.
+
+# Screenshots
+
+![Screenshot main page](https://github.com/tannelson21121/rapido/assets/127757372/965c626e-a5ec-45c8-84a9-305377aed6a8)
+
+
+
+
+
+
+
+
+
+
+
+
+
